@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Juan 🤪👨‍💻
+
+```javascript
+const #juanccode = {
+  pronouns: "he" | "him",
+  code: [Javascript, Php, Python, Solidity],
+  tools: [React, Nodejs, Docker, MySQL, Linux, Mongo],
+  architecture: ["microservices"]
+}
+```
 
 <!--
 **juanccode/juanccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
