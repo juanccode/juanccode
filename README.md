@@ -1,4 +1,4 @@
-### Hi, I'm Juan 🤪👨‍💻
+### Hi, I'm Juan 👨‍💻.
 
 ```javascript
 const #juanccode = {
@@ -8,6 +8,10 @@ const #juanccode = {
   architecture: ["microservices"]
 }
 ```
+
+You can find me 🌍:
+- [Twitter] (https://twitter.com/juanccode)
+- [Instagram] (https://instagram.com/juanccode)
 
 <!--
 **juanccode/juanccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
